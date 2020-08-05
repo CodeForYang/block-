@@ -36,6 +36,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0D96CD5324D904E500B0CACD /* ViewController.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ViewController.cpp; sourceTree = "<group>"; };
+		0D96CD5424D9086200B0CACD /* YPBlockDef.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YPBlockDef.h; sourceTree = "<group>"; };
+		0D9F48FA24C031B300E61255 /* YYTabItem.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YYTabItem.h; sourceTree = "<group>"; };
+		0D9F48FB24C031B300E61255 /* YYTabItem.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = YYTabItem.m; sourceTree = "<group>"; };
+		0D9F48FD24C0320F00E61255 /* YPTabProtocal.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = YPTabProtocal.h; sourceTree = "<group>"; };
+		0D9F48FE24C033DE00E61255 /* YYTabItem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = YYTabItem.cpp; sourceTree = "<group>"; };
 		0DA3020D24B456FB00D2D4B7 /* testProjj.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testProjj.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0DA3021024B456FB00D2D4B7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0DA3021124B456FB00D2D4B7 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -104,6 +110,8 @@
 		0DA3020F24B456FB00D2D4B7 /* testProjj */ = {
 			isa = PBXGroup;
 			children = (
+				0D96CD5324D904E500B0CACD /* ViewController.cpp */,
+				0D9F48FE24C033DE00E61255 /* YYTabItem.cpp */,
 				0DA3021024B456FB00D2D4B7 /* AppDelegate.h */,
 				0DA3021124B456FB00D2D4B7 /* AppDelegate.m */,
 				0DA3021324B456FB00D2D4B7 /* SceneDelegate.h */,
@@ -115,6 +123,10 @@
 				0DA3021E24B456FE00D2D4B7 /* LaunchScreen.storyboard */,
 				0DA3022124B456FE00D2D4B7 /* Info.plist */,
 				0DA3022224B456FE00D2D4B7 /* main.m */,
+				0D9F48FA24C031B300E61255 /* YYTabItem.h */,
+				0D9F48FB24C031B300E61255 /* YYTabItem.m */,
+				0D9F48FD24C0320F00E61255 /* YPTabProtocal.h */,
+				0D96CD5424D9086200B0CACD /* YPBlockDef.h */,
 			);
 			path = testProjj;
 			sourceTree = "<group>";
